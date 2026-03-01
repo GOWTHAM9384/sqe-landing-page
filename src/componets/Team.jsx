@@ -6,7 +6,7 @@ import team3 from '../assets/team/team-03.jpg'
 const Team = () => {
   return (
     <>
-      <div className='py-50 md:mx-30 px-5'>
+      <div className='py-50 md:mx-30 px-5' id='team'>
         <div className='text-center'>
           <h1 className='text-5xl mb-5 font-bold'>Our Team</h1>
           <p className='text-gray-500'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem commodi, dolorum modi nulla eveniet ipsam atque ad sapiente vel, repudiandae</p>

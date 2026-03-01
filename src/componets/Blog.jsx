@@ -8,7 +8,7 @@ import Button from '../common/Button'
 const Blog = () => {
   return (
     <>
-      <div className='md:mx-30 py-30 px-5 '>
+      <div className='md:mx-30 py-30 px-5 ' id='blog'>
         <div className='text-center flex flex-col gap-5'>
           <h2 className='text-5xl font-bold'>Our Blog</h2>
           <p className='text-gray-500'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem harum fugit necessitatibus sint cumque natus vero commodi aspernatur, velit repudiandae est mollitia beatae ipsam totam, vitae tenetur cupiditate ipsum nulla!</p>

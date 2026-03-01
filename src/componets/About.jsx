@@ -5,7 +5,7 @@ import Button from '../common/Button'
 const About = () => {
   return (
     <>
-      <div className='md:mx-30 py-30 grid grid-cols-1 lg:grid-cols-2 place-items-center text-center md:text-left'>
+      <div className='md:mx-30 py-30 grid grid-cols-1 lg:grid-cols-2 place-items-center text-center md:text-left' id='about'>
         <div className=''>
           <img src={about} alt="" className='md:w-200 ' />
         </div> 

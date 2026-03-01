@@ -6,3 +6,7 @@
   font-weight: 400;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+

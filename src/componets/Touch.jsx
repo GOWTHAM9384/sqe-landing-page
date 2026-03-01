@@ -5,7 +5,7 @@ import react from '../assets/react.svg'
 const Touch = () => {
   return (
     <>
-      <div className='md:mx-30 py-30 p-5'>
+      <div className='md:mx-30 py-30 p-5' id='contact'>
         <div className='text-center'>
           <h2 className='text-5xl font-bold'>Get In Touch</h2>
           <p className='my-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, odit.</p>

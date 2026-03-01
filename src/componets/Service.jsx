@@ -6,7 +6,7 @@ import mobile from '../assets/services.png'
 const Service = () => {
   return (
     <>
-      <div className='md:mx-30 py-30 flex flex-col items-center px-5'>
+      <div className='md:mx-30 py-30 flex flex-col items-center px-5' id='service'>
 
         <div className='text-center'>
           <h3 className='text-5xl mb-5 font-bold'>Our Service</h3>

@@ -10,7 +10,7 @@ import portfolio6 from '../assets/portfolio/portfolio-06.jpg'
 const Works = () => {
   return (
     <>
-      <div className='py-30 md:mx-30 px-5 '>
+      <div className='py-30 md:mx-30 px-5 ' id='work'>
 
         <div className='text-center flex flex-col gap-4 justify-center'>
           <h2 className='text-5xl font-bold'>Recent works</h2>
